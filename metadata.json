@@ -1,0 +1,6 @@
+{
+  "name": "MONTERUN STAR | Питомник русских борзых",
+  "description": "Официальная база данных и портал питомника русских псовых борзых MONTERUN STAR (Bela SK): племенной учет, генетика DM/DCM, расчет совместимости вязок, выставки, интерактивные родословные и каталог щенков.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
